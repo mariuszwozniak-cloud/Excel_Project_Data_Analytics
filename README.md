@@ -33,7 +33,7 @@ Zmienna docelowa `Outcome` informuje, czy dana osoba została zdiagnozowana z cu
 - Stworzono mapę korelacji zmiennych, która pozwoliła zidentyfikować zależności między cechami
 - Zidentyfikowano wysoką korelację pomiędzy BMI, poziomem glukozy i ciśnieniem tętniczym, a także bardzo wysoką korelację (0,91) pomiędzy historią rodzinną choroby a jej występowaniem
 
-![Wykres 1. Heatmap - Mapa korelacji](attachment:82e3e1c9-86cd-4cab-bf10-c6eb187e358a:4258ae57-1a12-44ef-affd-aea774698d0d.png)
+![Wykres 1. Heatmap - Mapa korelacji](images/Figure_1_heatmap.png)
 
 - **Kod użyty do wygenerowania heatmapy:**
 
