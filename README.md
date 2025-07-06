@@ -99,7 +99,7 @@ plt.show()
 
 - Dashboard w MS Excel pokazujący zależność BMI od kluczowych parametrów metabolicznych wpływających na rozwój cukrzycy.
     
-    ![image.png](image 2.png)
+    ![image 2.png](image 2.png)
     
     BMI **nie powoduje bezpośrednio cukrzycy**, ale:
     
