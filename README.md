@@ -60,7 +60,7 @@ plt.show()
 
 - **Boxploty** (wykresów pudełkowych) dla zmiennych: BMI, BloodPressure, LDL, HDL pokazujące wartości odstające (outliery) wg reguły 1.5x IQR. (Stworzone w MS Excel)
     
-    ![image.png](attachment:0aa63c6a-53bc-4cb3-a16d-bb93139d04b3:image.png)
+    ![image.png](images/image.png)
     
     Wartości odstające częściej występują po prawej stronie – rozkłady są **prawoskośne** (więcej osób z niskimi wartościami, kilku z bardzo wysokimi). 
     
@@ -70,14 +70,14 @@ plt.show()
     
 - **Histogramy** zmiennych liczbowych dla wstępnego przeglądu rozkładu.
     
-    ![Wykres 3. Histogramy](attachment:5cc45af1-c291-42de-9be8-95ebf471e215:Figure_2_Histogramy.png)
+    ![Wykres 3. Histogramy](images/Figure_2_Histogramy.png)
     
 
 ---
 
 - Historia rodzinna a cukrzyca:
     
-    ![image.png](attachment:d8e4250e-58a6-4dcd-963e-9d2ed874087e:image.png)
+    ![image.png](images/image.png)
     
     - Wszystkie osoby z `FamilyHistory = 1` miały cukrzycę (`Outcome = 1`)
     - Korelacja z `Outcome` wynosi **0.91**, co świadczy o **bardzo silnym związku**
@@ -87,7 +87,7 @@ plt.show()
 
 - Korelacje cech bez historii chorobowej
     
-    ![figure_3 heatmap bez familyhistory.png](attachment:a164f2ab-13b3-42e3-a92e-343214c900b4:figure_3_heatmap_bez_familyhistory.png)
+    ![figure_3 heatmap bez familyhistory.png](images/figure_3_heatmap_bez_familyhistory.png)
     
     ✅ **Wniosek:** Gdy brak obciążeń genetycznych, cukrzyca jest silniej związana z:
     
@@ -99,7 +99,7 @@ plt.show()
 
 - Dashboard w MS Excel pokazujący zależność BMI od kluczowych parametrów metabolicznych wpływających na rozwój cukrzycy.
     
-    ![image.png](attachment:298b1ab7-8d9f-45d0-a835-a5ecf2d7c7d5:image.png)
+    ![image.png](images/image.png)
     
     BMI **nie powoduje bezpośrednio cukrzycy**, ale:
     
